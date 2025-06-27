@@ -1,4 +1,4 @@
-# My Simple Cmake raylib Template
+# My Simple CMAKE raylib Template
 This is my basic CMAKE raylib template. It should be able to work on all IDEs
 however it's best to test yourself and tweak it to your liking. Use this as a starting
 point to make your own CMAKE template
