@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/my_raylib_game.dir/link.d CMakeFiles/my_raylib_game.dir/src/main.cpp.o -o my_raylib_game  _deps/raylib-build/raylib/libraylib.a -lm -lpthread /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so /usr/lib/librt.a -lm -ldl
