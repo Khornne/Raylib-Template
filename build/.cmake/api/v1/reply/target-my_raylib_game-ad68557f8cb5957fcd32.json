@@ -96,7 +96,7 @@
 			[
 				{
 					"backtrace" : 8,
-					"define" : "ASSETS_PATH=\"/home/korn/Programming/C_Projects/Raylib-Templateresources/assets/\""
+					"define" : "ASSETS_PATH=\"/home/korn/Programming/C_Projects/Raylib-Template/resources/assets/\""
 				},
 				{
 					"backtrace" : 2,
