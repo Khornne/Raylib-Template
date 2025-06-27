@@ -26,7 +26,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 file(GLOB_RECURSE PROJECT_SOURCES CONFIGURE_DEPENDS "${CMAKE_CURRENT_LIST_DIR}/src/*.cpp")
 ```
 
-Just reload CMAKE then the build should update.
+You would have to change main.cpp to main.c or vice versa in the src directory.
+
+Then just reload CMAKE then the build should update.
 
 ### Reference
 I based and used [SasLuca's](https://github.com/SasLuca/raylib-cmake-template) Raylib Template
